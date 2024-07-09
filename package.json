@@ -1,0 +1,22 @@
+{
+  "name": "prumo-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.22.0",
+    "react-router-dom": "^6.24.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+    "vite-tsconfig-paths": "^4.3.2"
+  }
+}
