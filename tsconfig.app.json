@@ -12,6 +12,8 @@
       "react": ["./node_modules/preact/compat/"],
       "react-dom": ["./node_modules/preact/compat/"],
       "components:atoms/*": ["src/components/atoms/*"],
+      "components:molecules/*": ["src/components/molecules/*"],
+      "components:organisms/*": ["src/components/organisms/*"],
       "assets:images/*": ["src/assets/images/*"]
     },
 
